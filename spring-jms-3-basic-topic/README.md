@@ -1,0 +1,1 @@
+https://memorynotfound.com/spring-boot-activemq-publish-subscribe-topic-configuration-example/
